@@ -1,0 +1,4 @@
+# Ignore IDE-related files (PyCharm)
+.idea/
+
+data/
